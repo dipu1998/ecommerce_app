@@ -1,1 +1,7 @@
 print("hello")
+print("hey")
+print("heyyyy")
+print("hellllooo")
+print("hey")
+print("heyyyy")
+print("hellllooo")
